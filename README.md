@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hey there! 👋 I'm Sushant Bhosale</h1>
-<h3 align="center">🚀 Frontend Developer | UI/UX Enthusiast </h3>
+<h3 align="center">🚀 Frontend Developer | UI/UX Enthusiast | Competetive Programmar</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sushant1805&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
