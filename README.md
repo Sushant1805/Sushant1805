@@ -28,6 +28,10 @@
   <img width="48%" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushant1805&theme=radical" />
 </p>
 
+<p align="center">
+  <img width="48%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant1805&layout=compact&theme=radical" />
+</p>
+
 
 <!-- Connect With Me -->
 ## 🌎 Connect with Me  
