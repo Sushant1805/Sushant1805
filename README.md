@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center">Hey there! 👋 I'm Sushant Bhosale</h1>
+<h1 align="center">Hey there! 👋 I'm Sushant</h1>
 <h3 align="center">🚀 Frontend Developer | UI/UX Enthusiast | Competetive Programmar</h3>
 
 <p align="center">
