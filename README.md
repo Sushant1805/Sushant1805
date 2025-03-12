@@ -1,6 +1,6 @@
 <!-- Header Section -->
-<h1 align="center">Hey there! 👋 I'm Cristiano Ronaldo</h1>
-<h3 align="center">🚀 Frontend Developer | UI/UX Enthusiast | Web Innovator</h3>
+<h1 align="center">Hey there! 👋 I'm Sushant Bhosale</h1>
+<h3 align="center">🚀 Frontend Developer | UI/UX Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
