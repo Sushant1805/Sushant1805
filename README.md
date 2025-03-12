@@ -11,12 +11,12 @@
 
 - 👨‍💻 Passionate about **building sleek, responsive & user-friendly web experiences**  
 - ⚡ Always exploring **modern frontend stacks** & **performance optimization**  
-- 🎯 Currently working on **AWS Security Hub Insights Visualizer**  
+- 🎯 Currently working on **SmartEats, Multi Cloud and AWS Security Hub Insights Visualizer**  
 
 <!-- Tech Stack -->
 ## ⚡ Tech Stack  
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS  
+- **Languages:** JavaScript, HTML, CSS, C++  
 - **Frontend:** React.js, Next.js, Tailwind CSS  
 - **Tools & Platforms:** Git, GitHub, Vercel, AWS  
 
