@@ -24,9 +24,10 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sushant1805&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushant1805&theme=radical" />
+  <img width="48%" height="150px" src="https://github-readme-stats.vercel.app/api?username=Sushant1805&show_icons=true&theme=radical" />
+  <img width="48%" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushant1805&theme=radical" />
 </p>
+
 
 <!-- Connect With Me -->
 ## 🌎 Connect with Me  
