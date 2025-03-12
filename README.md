@@ -57,31 +57,11 @@
 ## 🌎 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sushant-bhosale-a6542617b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://sushant-bhosale.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://x.com/Sushant_1805" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </p>
 
-<!-- Icon Row -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/sushant-bhosale-a6542617b/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://sushant-bhosale.netlify.app/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/Sushant_1805" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50" height="50" alt="Twitter"/>
-  </a>
-</p>
 
 
 🔥 Let’s build something awesome together! 🚀
